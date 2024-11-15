@@ -1,0 +1,12 @@
+spring:
+  ai:
+    openai:
+      api-key: ${SPRING_AI_OPENAI_API_KEY}
+
+logging:
+  pattern:
+    console: "%d %-5level %logger : %msg%n"
+  level:
+    org.springframework:
+      web:
+        client: debug
