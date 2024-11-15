@@ -1,6 +1,6 @@
 # Function Calling avec Spring AI - Démo Multi RAG
 
-Ce projet est une démonstration de l'implémentation de Function Calling dans des modèles de langage (LLM) avec Spring AI, dans un contexte Multi RAG (Retrieval-Augmented Generation). Il met en œuvre une architecture basée sur Spring Boot pour intégrer des fonctionnalités avancées permettant l'exécution de fonctions spécifiques via des outils contextuels.
+Ce projet est une démonstration de l'implémentation de Function Calling des modèles de langage (LLM) avec Spring AI, dans un contexte Multi RAG (Retrieval-Augmented Generation). Il met en œuvre une architecture basée sur Spring Boot pour intégrer des fonctionnalités avancées permettant l'exécution de fonctions spécifiques via des outils contextuels.
 
 ## Fonctionnalités
 
