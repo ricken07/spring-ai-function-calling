@@ -26,5 +26,5 @@ Ce projet est une démonstration de l'implémentation de Function Calling dans d
 
 1. Clonez le dépôt :
    ```bash
-   git clone [https://github.com/ricken07/spring-ai-function-calling.git](https://github.com/ricken07/spring-ai-function-calling.git)
+   git clone https://github.com/ricken07/spring-ai-function-calling.git
    cd spring-ai-function-calling
