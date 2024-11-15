@@ -28,3 +28,5 @@ Ce projet est une démonstration de l'implémentation de Function Calling des mo
    ```bash
    git clone https://github.com/ricken07/spring-ai-function-calling.git
    cd spring-ai-function-calling
+
+Un exemple : J'ai acheté un lave-vaisselle le mois dernier, il ne fonctionne plus, que puis-je faire ?
